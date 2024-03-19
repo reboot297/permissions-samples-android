@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">permission-samples</string>
+    <string name="alert_permissions_title">Warning</string>
+    <string name="alert_permissions_message">For the application to work correctly, you must grant all permissions. \nDo you want to continue?</string>
+    <string name="alert_permissions_ok">Ok</string>
+    <string name="alert_permissions_cancel">Cancel</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="permissions_denied_message">Some permissions are prohibited. You can enable them in the application settings.</string>
 </resources>
